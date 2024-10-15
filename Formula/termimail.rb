@@ -2,7 +2,7 @@ class Termimail < Formula
   desc "Generate temporary email domains from your terminal with ease"
   homepage "https://github.com/nicolasleal570/termimail"
   url "https://github.com/nicolasleal570/termimail/releases/download/v0.1.0/termimail-mac.tar.gz"
-  sha256 "e547778ae9de6405af90fda44f968ea7c09c719b09fae33a617c555556550a8c"
+  sha256 "fa8bc5f6130798f1178039a217b2d6c4b5d1c56d1da5fe7d2cdb12d3de3b5db0"
   version "0.1.0"
 
   # resource "modulo" do
